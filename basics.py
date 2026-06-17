@@ -4,3 +4,5 @@ college = "Chaitanya Bharathi Institute Of Technology"
 print(name)
 print("The age of ", name)
 print(age)
+print("The college name is")
+print(college)
